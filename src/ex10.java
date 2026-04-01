@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ex10 {
     static void main() {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner (System.in);
          int total = 300;
 
         IO.println("quantas páginas você leu hoje?");
