@@ -22,7 +22,7 @@ public class ex11 {
 
             double percentual = (baixado / TamanhoTotal) * 100;
 
-            IO.println(" Progresso do dowload: 2% concluído");
+            IO.println("Progresso do dowload: 2% concluído");
 
 
         }
